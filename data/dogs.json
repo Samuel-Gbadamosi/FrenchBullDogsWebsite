@@ -1,0 +1,46 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Bruno",
+      "breed": "French Bulldog",
+      "type": "Standard",
+      "color": "Brindle",
+      "age": 3,
+      "gender": "Male",
+      "weight": "12 kg",
+      "personality": "Playful, friendly, loves belly rubs",
+      "owner": "John Smith",
+      "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=400&h=400&fit=crop",
+      "date_added": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Luna",
+      "breed": "French Bulldog",
+      "type": "Mini",
+      "color": "Fawn",
+      "age": 2,
+      "gender": "Female",
+      "weight": "10 kg",
+      "personality": "Gentle, affectionate, loves cuddles",
+      "owner": "Sarah Johnson",
+      "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=400&h=400&fit=crop",
+      "date_added": "2024-02-20"
+    },
+    {
+      "id": 3,
+      "name": "Winston f",
+      "breed": "French Bulldog",
+      "type": "Standard",
+      "color": "Cream",
+      "age": 4,
+      "gender": "Male",
+      "weight": "13 kg",
+      "personality": "Calm, loyal, enjoys naps",
+      "owner": "Michael Brown",
+      "image": "https://images.unsplash.com/photo-1603123853880-a92fafb7809f?w=400&h=400&fit=crop",
+      "date_added": "2024-03-10"
+    }
+  ]
+}

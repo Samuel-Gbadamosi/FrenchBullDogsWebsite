@@ -1,0 +1,26 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Frenchie Meetup at Central Park",
+      "type": "meetup",
+      "date": "2024-07-15",
+      "time": "10:00 AM",
+      "location": "Duomo, Milan Area",
+      "description": "Join us for a fun morning with fellow French Bulldog owners!",
+      "created_by": "admin",
+      "date_created": "2025-06-01"
+    },
+    {
+      "id": 2,
+      "title": "Bruno's Birthday Party",
+      "type": "birthday",
+      "date": "2024-08-20",
+      "time": "2:00 PM",
+      "location": "Doggy Daycare Center",
+      "description": "Bruno is turning 4! Come celebrate with treats and games.",
+      "created_by": "admin",
+      "date_created": "2025-07-10"
+    }
+  ]
+}
